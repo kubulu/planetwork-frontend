@@ -1,26 +1,25 @@
-.productContent .img {
+.relatedProduct {
+  padding-top: 40px;
+}
+.relatedProduct .img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   overflow: hidden;
   margin-bottom: 20px;
 }
-.productContent .img img {
+.relatedProduct .img img {
   width: 100%;
   height: 100%;
 }
-.productContent .bottom {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.productContent .content {
+.relatedProduct .content {
   text-align: center;
 }
-.productContent .content h2 {
+.relatedProduct .content h2 {
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
 
-/*# sourceMappingURL=productContent.module.css.map */
+/*# sourceMappingURL=relatedProducts.module.css.map */
